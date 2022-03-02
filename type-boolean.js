@@ -4,8 +4,8 @@ let cadastroAtivado = true;
 
 console.log(numPrimeiro === numSegundo);
 
-const texto = "Olá"
-const texto2 = " mundo!"
+const texto = "Olá";
+const texto2 = " mundo!";
 
 
-console.log(texto === texto2)
+console.log(texto === texto2);
